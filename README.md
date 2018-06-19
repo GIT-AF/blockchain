@@ -1,8 +1,4 @@
-# Blockchain 区块链 - 中文资源阅读列表
-
-[Hyperledger Fabric v1.0.5 官方文档的简体中文翻译版本](https://github.com/LiuBoyu/hyperledger-fabric-docs-zh_CN)，翻译工作正在火热进行中，欢迎加入。
-
-Email: boyu.liu@gmail.com
+# Blockchain 区块链 - 学习
 
 ----------------
 
@@ -10,8 +6,8 @@ Email: boyu.liu@gmail.com
 
 ### 入门书籍
 
-* [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
-* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book) - 强烈推荐
+* [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content) - 1遍
+* [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book) - 1遍
 
 ### 行业报告
 
